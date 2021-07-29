@@ -1,0 +1,5 @@
+variable:
+p1- initial collision point
+p2- temp way point
+po1- tangent point to straight line
+ect- estimate collision time

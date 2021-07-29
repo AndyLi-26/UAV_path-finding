@@ -1,0 +1,5 @@
+- implement mutiple obs
+	- treat sperate obs one at a time
+	- pick new p2 for overlapping obs
+- implement mutiple wp
+- make time steps variable
